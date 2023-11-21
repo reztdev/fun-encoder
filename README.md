@@ -1,8 +1,7 @@
 # fun-encoder
 Very simple encoder and Encrypting technique
 ## Preview
-![Alt Text(image.png)]
-
+![Alt Text(https://github.com/reztdev/fun-encoder/blob/main/image.png)]
 If you want to use fun-encoder as a module, then don't forget to import it so that it can be called in your code
 
 ## Example Usage

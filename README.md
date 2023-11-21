@@ -1,7 +1,7 @@
 # fun-encoder
 Very simple encoder and Encrypting technique
 ## Preview
-![Repository image(image.png)]
+![Alt Text(image.png)]
 
 If you want to use fun-encoder as a module, then don't forget to import it so that it can be called in your code
 

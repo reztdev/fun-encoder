@@ -24,7 +24,6 @@ def result_plain_data(input_text):
     return output
 
 def encrypt_plain_data(data):
-    # parameter 'data' from result function result_plain_data()
     encrypt_data = encrypt(data)
     encrypt_string = ''.join(chr(value & 0xFFFF) for value in encrypt_data)
     return encrypt_string

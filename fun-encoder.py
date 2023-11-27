@@ -1,3 +1,5 @@
+# author : Muhammad Rizki
+
 def string_to_binary(string):
     payload = ""
     for byte in string:
